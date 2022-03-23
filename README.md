@@ -5,7 +5,9 @@
 
 This is a simple Laravel CMS Pages architucture.
 
-I will host this application in Heroku. Will add its URL later.
+I have hosted this application in Heroku. Please find it below
+
+- [https://sreejith-laravel-cms.herokuapp.com/](https://sreejith-laravel-cms.herokuapp.com).
 
 ## Installation
 
